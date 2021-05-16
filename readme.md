@@ -35,7 +35,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github_2-128.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn2.iconfinder.com/data/icons/solid-apps-and-programming/32/Applications_and_Programming_application_coding_terminal-128.png" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-128.png" />
 
 <br/>
 <br/>
