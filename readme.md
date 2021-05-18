@@ -1,7 +1,7 @@
 ## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 **ABOUT ME** 
-## I'm a Student, Learner, Developer, and Techgeek!!
+## I'm a Student, Learner, Developer, and Techgeek!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
