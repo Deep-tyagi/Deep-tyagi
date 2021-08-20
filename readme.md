@@ -50,7 +50,7 @@
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=Deep-tyagi&&show_icons=true&count_private=true"/>
-<!-- |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-tyagi"/>| -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-tyagi"/> -->
 
 
 ⭐️ From [Deep-tyagi](https://github.com/Deep-tyagi)
