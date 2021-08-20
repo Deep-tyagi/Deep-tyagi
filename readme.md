@@ -1,4 +1,5 @@
-## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> 👨‍💻 ![](https://komarev.com/ghpvc/?username=Deep-tyagi&label=Views)
+
 
 **ABOUT ME** 
 ## I'm a Student, Learner, Developer, and Techgeek!!
