@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goal: Contribute more to Open Source projects
-- 👨‍🎓 B.Tech EEE (2018-2022)
+- 👨‍🎓 B.Tech(2018-2022)
 - 👨‍💻 Full-Stack Web Developer
 
 ## '' Always keen to Learn and Improve
