@@ -4,7 +4,7 @@
 **ABOUT ME** 
 ## I'm a Student, Learner, Developer, and Techgeek!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2021 Goal: Contribute more to Open Source projects
 - 👨‍🎓 B.Tech (2018-2022)
 - 👨‍💻 Full-Stack Web Developer
